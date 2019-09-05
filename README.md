@@ -5,6 +5,9 @@ A set of training resources for the NFD team
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript - The best Javascript reference you’ll find
 * https://reactjs.org/docs/getting-started.html - The best React reference you'll find
 * https://reacttraining.com/react-router/web/guides/quick-start - React router reference docs
+* https://docs.npmjs.com/packages-and-modules/ - NPM *packages* reference docs
+* https://yarnpkg.com/en/docs - Yarn reference docs (top level)
+* https://yarnpkg.com/en/docs/workspaces - Yarn *workspaces* reference docs
 
 ## Blog resources
 * https://reactjs.org/blog/ - Offical ReactJS Blog
@@ -35,3 +38,9 @@ A set of training resources for the NFD team
 ## Free training resources
 * https://javascript30.com/
 * https://cssgrid.io/
+
+## CLI Tools
+* add to me...
+
+## VS Code Tools
+* add to me...
