@@ -59,3 +59,9 @@
 - AFES Sunshine Coast
 - Mornington Presbyterian Church
 - New Front Door
+
+### Outstanding needs
+- Any dependency vulnerabilities? Security issues?
+- Logs and Monitoring - should we be paying for these from Vercel? Especially around users and payments etc.
+- Vercel paid seats
+- Backups for sanity data
