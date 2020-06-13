@@ -17,6 +17,7 @@
 - MongoDB
 - non-Outlook distro lists
 - Sparkleshare
+- Killing cloudfront?
 
 ## What needs to be done to complete our transition to the new stack:
 
