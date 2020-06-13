@@ -46,6 +46,7 @@
 - Set-up shared mailbox for support@ emails
 
 ## Open client projects
+- FOCUS (now v2 - Sanity etc.)
 - Soul Church
 - Westminster Presbyterian Church
 - Vision 100
