@@ -35,6 +35,7 @@
 - 'Common footer' project for consistent NFD branding across all client sites
 - Entirely rebuilding NFD based on current stack and with new sales focus, including showcase of client sites
 - Client onboarding app to automate/streamline the process
+- Backup data from Sanity.io
 
 ### Tooling:
 - Scaffolding around spinning up Sanity.io deployment with common schemas/layouts for new clients
