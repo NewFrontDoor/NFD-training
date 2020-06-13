@@ -7,7 +7,7 @@
 - Content management: Sanity.io (headless CMS)
 - Large asset storage: AWS S3 (integrated with Sanity.io)
 - Hosting: Vercel (formerly called zeit now)
-- Testing: React Testing Library
+- Testing: React Testing Library + Github Actions
 - Continuous deployment: Github/Vercel
 - Lambda deployment: Serverless
 
