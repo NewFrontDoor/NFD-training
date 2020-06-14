@@ -30,7 +30,6 @@ A set of training resources for the NFD team
 * https://www.sanity.io/docs/schema-types - Sanity schema types reference
 * https://www.sanity.io/docs/groq - Sanity Query Language (GROQ) reference
 * https://www.sanity.io/docs/js-client - Sanity Javascript Client Library reference
-
 * https://www.sanity.io/guides - Sanity guided examples/training
 * https://www.sanity.io/docs/query-cheat-sheet - GROQ cheat sheet
 * https://www.sanity.io/guides/introduction-to-portable-text - Intro to Portable Text (JSON rich text)
