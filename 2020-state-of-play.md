@@ -9,7 +9,7 @@
 - Hosting: Vercel (formerly called zeit now)
 - Testing: React Testing Library + Github Actions
 - Continuous deployment: Github/Vercel
-- Lambda deployment: Serverless
+- Lambda deployment: Vercel/Serverless
 
 ## Fully Retired/Soon to be retired stuff:
 - EC2/Elastic Beanstalk

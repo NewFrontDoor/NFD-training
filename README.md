@@ -1,13 +1,47 @@
 # NFD-training
 A set of training resources for the NFD team
 
-## Reference documents
+## General reference documents
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript - The best Javascript reference you’ll find
 * https://reactjs.org/docs/getting-started.html - The best React reference you'll find
-* https://reacttraining.com/react-router/web/guides/quick-start - React router reference docs
 * https://docs.npmjs.com/packages-and-modules/ - NPM *packages* reference docs
 * https://yarnpkg.com/en/docs - Yarn reference docs (top level)
 * https://yarnpkg.com/en/docs/workspaces - Yarn *workspaces* reference docs
+
+## Reference and training docs for our specific stack
+### Next JS
+* https://nextjs.org/docs/getting-started - NextJS reference
+* https://nextjs.org/learn/basics/create-nextjs-app - Official NextJS tutorials
+
+### Vercel
+* https://vercel.com/docs - Vercel reference
+* https://vercel.com/docs/cli#getting-started - Vercel CLI reference
+* https://vercel.com/docs/v2/build-step - Vercel build step (what happens on deploy) docs
+* https://vercel.com/docs/v2/serverless-functions/introduction - Vercel serverless functions docs
+
+### Theme UI / Emotion.sh
+* https://theme-ui.com/getting-started - Theme UI reference
+* https://theme-ui.com/guides/how-it-works - High level overview of Theme UI
+* https://theme-ui.com/theme-spec - Theme Specification
+* https://emotion.sh/docs/introduction - Emotion.sh reference
+
+### Sanity
+* https://www.sanity.io/docs/reference - Sanity reference homepage
+* https://www.sanity.io/docs/schema-types - Sanity schema types reference
+* https://www.sanity.io/docs/groq - Sanity Query Language (GROQ) reference
+* https://www.sanity.io/docs/js-client - Sanity Javascript Client Library reference
+
+* https://www.sanity.io/guides - Sanity guided examples/training
+* https://www.sanity.io/docs/query-cheat-sheet - GROQ cheat sheet
+* https://www.sanity.io/guides/introduction-to-portable-text - Intro to Portable Text (JSON rich text)
+
+### Testing Library
+* https://testing-library.com/docs/react-testing-library/intro - Testing Library intro for React
+* https://testing-library.com/docs/react-testing-library/setup - Setup
+
+### Projects adjacent to our work that might come in handy, or we've used in the past
+* https://reacttraining.com/react-router/web/guides/quick-start - React router reference docs
+* https://github.com/mike-engel/now-rust - Rust lambdas on Vercel
 
 ## Blog resources
 * https://reactjs.org/blog/ - Offical ReactJS Blog
@@ -35,12 +69,17 @@ A set of training resources for the NFD team
 * https://syntax.fm/show/146/css-the-cool-parts
 * https://syntax.fm/show/152/debugging-tools-tips
 
-## Free training resources
+## Free general training resources
 * https://javascript30.com/
 * https://cssgrid.io/
 
 ## CLI Tools
-* add to me...
+* https://vercel.com/download - Vercel CLI
+* https://www.sanity.io/docs/cli - Sanity CLI
 
 ## VS Code Tools
 * add to me...
+
+## Other tools
+* https://transform.tools/ - Transforms SVGs to JSX, CSS to JS objects (for CSS in JS) and many other things
+* https://kapeli.com/dash - Dash - offline documentation browser
