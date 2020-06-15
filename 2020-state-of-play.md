@@ -2,14 +2,22 @@
 
 ## Current stack:
 - Framework: NextJS (front end and SSR/server functions)
+  - [Example repo with Static routes, dynamic routes, getInitialProps function, and API routes etc.](https://github.com/NewFrontDoor/stkildapc-nextjs)
 - Design system: ThemeUI (built upon emotion.sh)
+  - [Example repo with ThemeUI theme files, sx prop, Styled api, ThemeUI components](https://github.com/NewFrontDoor/stkildapc-nextjs)
 - CSS: Emotion.sh
+  - Used as an escape hatch where the ThemeUI approach impacts code readability or is too inflexible. Used by ThemeUI under the hood, so the syntax is essentially the same. **Prefer use of the sx prop offered by ThemeUI instead, to access theme values**
 - Content management: Sanity.io (headless CMS)
+  - [A full featured Sanity studio example](https://github.com/NewFrontDoor/crossroadshobart-sanity)
+  - [The corresponding NextJS repo with Sanity queries](https://github.com/NewFrontDoor/crossroadshobart.org/blob/master/lib/queries.js) (links directly to queries folder, but just jump up a level to see how the query is utilised)
 - Large asset storage: AWS S3 (integrated with Sanity.io)
+  - [Sermon upload lamba endpoint](https://github.com/NewFrontDoor/v100it-lambdas/tree/master/functions/sermon-upload) (Likely to be replaced with API routes in NextJS)
+  - [Sanity plugin which uses the presigned-post endpoint to upload to S3 from Sanity](https://github.com/NewFrontDoor/crossroadshobart-sanity/blob/master/plugins/s3-upload-widget/index.js)
 - Hosting: Vercel (formerly called zeit now)
 - Testing: React Testing Library + Github Actions
 - Continuous deployment: Github/Vercel
 - Lambda deployment: Vercel/Serverless
+  - [Our lambda repo, with deployment tooling](https://github.com/NewFrontDoor/v100it-lambdas)
 
 ## Fully Retired/Soon to be retired stuff:
 - EC2/Elastic Beanstalk
